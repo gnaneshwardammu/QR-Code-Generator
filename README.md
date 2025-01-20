@@ -8,15 +8,13 @@ A simple web-based QR Code Generator built using **HTML**, **CSS**, and **JavaSc
 - Simple and responsive user interface.
 
 ## 📂 Project Structure
-qr-code-generator/
-  ├── index.html # Main HTML file 
-  ├── style.css # CSS file for styling 
-  ├── script.js # JavaScript file for functionality 
-  └── README.md # Project documentation
+qr-code-generator/  
+  ├── index.html  
+  ├── style.css  
+  ├── script.js  
   
 ## 🌐 Demo
-Check out the live version of the project here: [QR Code Generator](https://username.github.io/qr-code-generator/)  
-*(Replace `username` with your GitHub username)*
+Check out the live version of the project here: [QR Code Generator](https://gnaneshwardammu.github.io/QR-Code-Generator/)  
 
 ## 🛠️ How to Use
 1. Clone the repository:
@@ -34,7 +32,7 @@ Check out the live version of the project here: [QR Code Generator](https://user
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 ## 👨‍💻 Author
-Gnaneshwar Dammu
+Gnaneshwar Dammu  
 Email: gnaneshwardammu@gmail.com
 
 ## ⭐ Acknowledgments
