@@ -27,7 +27,8 @@ Check out the live version of the project here: [QR Code Generator](https://user
 4. Download or use the generated QR code.
 
 ## 📷 Screenshots
-
+<img src="https://github.com/gnaneshwardammu/QR-Code-Generator/blob/main/Screenshot%201.png" alt="screenshot 1">
+<img src="https://github.com/gnaneshwardammu/QR-Code-Generator/blob/main/Screenshot%202.png" alt="screenshot 2">
 
 ## 🤝 Contributions
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
